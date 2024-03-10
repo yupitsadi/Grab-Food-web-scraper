@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+jsonlib-python3
+gzip
+
+
+
